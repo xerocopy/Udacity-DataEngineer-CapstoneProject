@@ -12,6 +12,7 @@ Datasets used in the project:
 3. U.S. City Demographic Data: This data comes from OpenSoft. https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/
 4. Airport Code Table: This is a simple table of airport codes and corresponding cities. https://datahub.io/core/airport-codes#data
 
+These data are now available in my S3 buckets as well: arn:aws:s3:::myudacitycapstionprojectbucket
 
 
 Scope of the Project and End User Cases: 
